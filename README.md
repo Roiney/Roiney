@@ -18,3 +18,4 @@ Olá, me chamo Roiney Beal, natural do Rio do Sul mas morando atualmente em São
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roiney&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roiney&layout=compact)](https://github.com/roiney/github-readme-stats)
