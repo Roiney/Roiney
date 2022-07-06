@@ -11,7 +11,10 @@ Olá, me chamo Roiney Beal, natural do Rio do Sul mas morando atualmente em São
 
 ## Conhecimentos 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/))
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Roiney/)](https://github.com/Roiney/))
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Roiney/)](https://github.com/Roiney/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roineyshow_icons=true&theme=radical)
