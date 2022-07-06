@@ -8,3 +8,7 @@ Olá, me chamo Roiney Beal, natural do Rio do Sul mas morando atualmente em São
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roineybeal268gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roiney-beal-776993a5/)
+
+## Conhecimentos 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/Roiney/)
+
