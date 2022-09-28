@@ -18,7 +18,7 @@ Olá, me chamo Roiney Beal, natural do Rio Grande do Sul mas morando em São Pau
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roiney&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roiney&layout=compact)](https://github.com/roiney/github-readme-stats)
