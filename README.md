@@ -20,7 +20,7 @@ Olá, me chamo Roiney Beal,sou natural do Rio Grande do Sul mas estou morando em
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=black&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 [![MongoDB](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-square&logo=laravel&logoColor=white&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
 
 
