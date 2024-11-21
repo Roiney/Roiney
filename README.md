@@ -1,6 +1,6 @@
 Olá, me chamo Roiney Beal,sou natural do Rio Grande do Sul mas estou morando em São Paulo, e atualmente sou estudante de desenvolvimento Full Stack Web pela Trybe!
 
-- 🎓 Bacharel, Mestre e Doutorando em Química.
+- 🎓 Bacharel, Mestre e Doutor em Química.
 - :test_tube: Pesquisas desenvolvidas na área de química teórica, fornecendo um grande backgraund sobre línguagens de programação.
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
