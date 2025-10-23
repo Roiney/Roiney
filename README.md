@@ -1,30 +1,54 @@
-Olá, me chamo Roiney Beal,sou natural do Rio Grande do Sul mas estou morando em São Paulo, e atualmente sou estudante de desenvolvimento Full Stack Web pela Trybe!
+# 👋 Olá, eu sou o Roiney Beal
 
-- 🎓 Bacharel, Mestre e Doutor em Química.
-- :test_tube: Pesquisas desenvolvidas na área de química teórica, fornecendo um grande backgraund sobre línguagens de programação.
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- :mailbox: Entre em contato:
+Sou **Engenheiro de Software Full-Stack Sênior**, natural do Rio Grande do Sul e atualmente baseado em São Paulo. Atuo com foco em **arquiteturas escaláveis**, **microsserviços** e **plataformas de dados e telemetria**, unindo ciência, engenharia e tecnologia.
 
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:nei_beal@hotmail.com)](mailto:nei_beal@hotmail.com)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roineybeal268gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roiney-beal/)
-[![Whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511957701309)
+🎓 Doutor e Mestre em Química Teórica — com forte base em modelagem computacional e processamento de sinais, o que me levou naturalmente à engenharia de software.
 
+💼 Tenho atuado nos setores **Financeiro (Fintech/ERP)** e **Healthcare (IoT Biomédico e Telemetria)**, projetando sistemas de **alta disponibilidade**, **integrações complexas** e **processamento massivo de dados**.
 
-## Conhecimentos 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
-[![MongoDB](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-square&logo=laravel&logoColor=white&link=https://github.com/Roiney/)](https://github.com/Roiney/)
+🧩 Trabalho com **Java (Spring Boot / Quarkus)**, **Node.js (NestJS)**, **Python (FastAPI / Flask)** e **React + TypeScript**, desenvolvendo soluções em **AWS**, **Google Cloud**, **PostgreSQL**, **MongoDB**, **Redis**, **Docker** e **Kubernetes**.
 
+🚀 Tenho experiência em **integrações de dispositivos**, **pipelines de dados**, **processamento de sinais fisiológicos**, **sistemas financeiros multiempresa**, e **plataformas SaaS**.
 
+---
 
+## 🧠 Stack Principal
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roiney&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roiney&layout=compact)](https://github.com/roiney/github-readme-stats)
+| Área | Tecnologias |
+|------|--------------|
+| **Backend** | **Java (Spring Boot, Quarkus)** · **Node.js (NestJS)** · **Python (FastAPI, Flask)** |
+| **Frontend** | React · TypeScript · Redux Toolkit · TailwindCSS |
+| **Banco de Dados** | PostgreSQL · MongoDB · Redis |
+| **Cloud & DevOps** | Docker · Kubernetes · AWS (S3, Lambda, Fargate) · GCP (GCS, Cloud Run) |
+| **Arquitetura** | Domain-Driven Design · Clean Architecture · Microservices · Event-Driven · CQRS |
+| **Testes & Qualidade** | JUnit · Jest · Pytest · Cypress · ESLint · SonarQube |
+
+---
+
+## 💼 Setores e Projetos
+
+| Setor | Descrição |
+|-------|------------|
+| **Fintech / ERP** | Desenvolvimento de sistemas **multiempresa**, com módulos de **faturamento**, **pagamentos**, **gateway de integração bancária** e **auditoria fiscal automatizada**. |
+| **Healthcare / IoT Biomédico** | Criação de **pipelines de telemetria** e **análise de sinais fisiológicos (PPG, ECG, movimento)**, aplicando algoritmos de processamento e visualização de dados em tempo real. |
+| **SaaS & Cloud Architecture** | Projeto e manutenção de **microserviços distribuídos** com **monitoramento, logging centralizado e filas (Kafka / PubSub / RabbitMQ)**. |
+
+---
+
+## 📊 Estatísticas do GitHub
+![Roiney's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoineyBeal1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoineyBeal1&layout=compact&theme=tokyonight)
+
+---
+
+## 💬 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roiney-beal/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roineybeal268@gmail.com)
+[![Hotmail](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nei_beal@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511957701309)
+
+---
+
+> 💡 “Transformando ciência em código, e código em soluções reais — da saúde ao sistema financeiro.”
+
