@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Roiney Beal
 
-Sou **Engenheiro de Software Full-Stack Sênior**, natural do Rio Grande do Sul e atualmente baseado em São Paulo. Atuo com foco em **arquiteturas escaláveis**, **microsserviços** e **plataformas de dados e telemetria**, unindo ciência, engenharia e tecnologia.
+Sou **Engenheiro de Desenvolvimento de Software Full-Stack Sênior**, natural do Rio Grande do Sul e atualmente baseado em São Paulo. Atuo com foco em **arquiteturas escaláveis**, **microsserviços** e **plataformas de dados e telemetria**, unindo ciência, engenharia e tecnologia.
 
 🎓 Doutor e Mestre em Química Teórica — com forte base em modelagem computacional e processamento de sinais, o que me levou naturalmente à engenharia de software.
 
